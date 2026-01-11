@@ -25,9 +25,9 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* google.com
-* w3schools.com
-* stackexchange.com
+* [Google] google.com
+* [W3Schools] w3schools.com
+* [StackExchange] stackexchange.com
 
 ## Future Work
 
